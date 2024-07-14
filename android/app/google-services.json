@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39016583372",
+    "project_id": "panelist-assessment",
+    "storage_bucket": "panelist-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39016583372:android:079e9fca185ecfdd097269",
+        "android_client_info": {
+          "package_name": "com.qhasnain.panelistassessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4-hW2ZcoObGnkNVnC7dF1q2JgLMf69Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
